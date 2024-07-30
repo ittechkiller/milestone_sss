@@ -1,2 +1,10 @@
-# milestone_sss
-milestone_sss
+# jsoft1222
+
+# USDT-BEP20
+# 0x783c57ee3dbbf5825388e9b59c8efb67ba24a9c5
+## 0x783c57ee3dbbf5825388e9b59c8efb67ba24a9c5
+
+# USDT- TRC20
+# TZ5zw9to7hYvAtnGxsfyMd53P7zdRv72MZ
+## TZ5zw9to7hYvAtnGxsfyMd53P7zdRv72MZ
+
